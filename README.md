@@ -1,8 +1,10 @@
 # Realtime-Object-Recognition-App
 
+App use [Resnet50](https://developer.apple.com/machine-learning/models/) model from Apple
+
 ### Features
 
--Recognize objects\
+-Recognize objects
 
 ### App demo
 
